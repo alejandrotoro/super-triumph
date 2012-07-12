@@ -1,2 +1,2 @@
-super-triumph
+Super Triumph
 =============
